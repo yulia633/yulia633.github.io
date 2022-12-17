@@ -14,9 +14,6 @@ paginate: 2
 paginate_path: "/:num/"
 date_format: "%b %-d, %Y"
 
-disqus:
-  shortname: yulia633
-
 plugins:
   - jekyll-feed
   - jekyll-paginate
