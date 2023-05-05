@@ -10,7 +10,7 @@ theme: minima
 # Site settings
 permalink: /:title/
 markdown: kramdown
-paginate: 2
+paginate: 4
 paginate_path: "/:num/"
 date_format: "%b %-d, %Y"
 
