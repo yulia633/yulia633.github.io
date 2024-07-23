@@ -9,8 +9,6 @@ theme:
     primary: white
 
 nav:
-  - Установка:
-      - index.md
   - Главная:
       - mkdocs/index.md
       - mkdocs/main.md
