@@ -1,46 +1,12 @@
 site_name: Документация сервиса сотрудников
 
+repo_url: 'https://github.com/yulia633/yulia633.github.io'
+
 theme:
   name: material
   language: ru
   palette:
     primary: white
-  features:
-    - content.code.copy
-    - navigation.top
-    - navigation.tracking
-    - navigation.sections
-    - navigation.tabs
-    - navigation.expand
-
-extra_css:
-  - assets/css/style.css
-
-extra:
-  generator: false
-
-exclude_docs: |
-  *.drawio
-
-validation:
-  omitted_files: warn
-  absolute_links: relative_to_docs
-  unrecognized_links: warn
-  anchors: warn
-
-markdown_extensions:
-  - attr_list
-  - admonition
-  - pymdownx.critic
-  - pymdownx.mark
-  - pymdownx.inlinehilite
-  - pymdownx.highlight:
-      linenums: true
-      pygments_lang_class: true
-
-plugins:
-  - include-markdown
-  - drawio_file
 
 nav:
   - Главная:
