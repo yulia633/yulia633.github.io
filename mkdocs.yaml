@@ -1,0 +1,22 @@
+site_name: Документация сервиса сотрудников
+
+docs_dir: docs/mkdocs/
+repo_url: 'https://github.com/yulia633/yulia633.github.io'
+
+theme:
+  name: material
+  language: ru
+  palette:
+    primary: white
+
+nav:
+  - Главная:
+      - index.md
+      - main.md
+  - Документация:
+      - employee/all.md
+      - employee/get-person.md
+      - employee/create-person.md
+
+
+
