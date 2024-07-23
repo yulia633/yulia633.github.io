@@ -10,12 +10,12 @@ theme:
 
 nav:
   - Главная:
-      - index.md
-      - main.md
+      - docs/mkdocs/index.md
+      - docs/mkdocs/main.md
   - Документация:
-      - employee/all.md
-      - employee/get-person.md
-      - employee/create-person.md
+      - docs/mkdocs/employee/all.md
+      - docs/mkdocs/employee/get-person.md
+      - mkdocs/employee/create-person.md
 
 
 
