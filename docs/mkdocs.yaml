@@ -1,6 +1,6 @@
 site_name: Документация сервиса сотрудников
 
-docs_dir: docs/
+docs_dir: docs/mkdocs/
 repo_url: 'https://github.com/yulia633/yulia633.github.io'
 
 theme:
