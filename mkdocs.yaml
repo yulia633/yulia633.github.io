@@ -15,5 +15,6 @@ nav:
   - Документация API:
       - employee/get-person.md
       - employee/create-person.md
+      - employee/delete-person.md
   - Сущности сервиса:
       - entity/entity-main.md
