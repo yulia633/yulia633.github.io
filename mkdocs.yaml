@@ -10,7 +10,7 @@ theme:
 
 nav:
   - Главная:
-      - index.md
+      - description.md
       - main.md
   - Документация API:
       - employee/get-person.md
