@@ -1,7 +1,6 @@
 site_name: Документация сервиса сотрудников
 
 repo_url: 'https://github.com/yulia633/yulia633.github.io'
-docs_dir: docs/
 
 theme:
   name: material
