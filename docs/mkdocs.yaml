@@ -9,9 +9,8 @@ theme:
     primary: white
 
 nav:
-  - Главная:
-    - description.md
-    - main.md
+  - index.md
+  - main.md
   - Документация API:
     - employee/get-person.md
     - employee/create-person.md
