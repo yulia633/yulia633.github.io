@@ -16,5 +16,9 @@ nav:
       - employee/get-person.md
       - employee/create-person.md
       - employee/delete-person.md
-  - Сущности сервиса:
+  - Сущности:
       - entity/entity-main.md
+      - entity/entity-person.md
+      - entity/entity-position.md
+      - entity/entity-role.md
+      - entity/entity-role-type.md
