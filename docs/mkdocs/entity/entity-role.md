@@ -22,4 +22,4 @@ Role(
 
 ### Типы ролей
 
-[Типы ролей](../entity/entity-role-type.md)
+[Типы ролей](entity-role-type.md)

@@ -11,12 +11,12 @@ theme:
 
 nav:
   - Главная:
-      - index.md
-      - main.md
+    - index.md
+    - main.md
   - Документация API:
-      - employee/get-person.md
-      - employee/create-person.md
-      - employee/delete-person.md
+    - employee/get-person.md
+    - employee/create-person.md
+    - employee/delete-person.md
   - Сущности:
       - entity/entity-main.md
       - entity/entity-person.md
