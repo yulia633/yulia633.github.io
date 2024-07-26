@@ -12,7 +12,8 @@ nav:
   - Главная:
       - index.md
       - main.md
-  - Документация:
-      - employee/all.md
+  - Документация API:
       - employee/get-person.md
       - employee/create-person.md
+  - Сущности сервиса:
+      - entity/entity-main.md

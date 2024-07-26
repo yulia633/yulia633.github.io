@@ -10,9 +10,10 @@ theme:
 
 nav:
   - Главная:
-      - mkdocs/index.md
-      - mkdocs/main.md
-  - Документация:
-      - mkdocs/employee/all.md
-      - mkdocs/employee/get-person.md
-      - mkdocs/employee/create-person.md
+      - index.md
+      - main.md
+  - Документация API:
+      - employee/get-person.md
+      - employee/create-person.md
+  - Сущности сервиса:
+      - entity/entity-main.md
