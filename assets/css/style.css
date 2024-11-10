@@ -1,0 +1,52 @@
+[data-md-color-scheme=default] pre {
+    --md-code-hl-keyword-color: hsl(227, 86%, 37%);
+    --md-code-hl-variable-color: hsl(230, 8%, 24%);
+    --md-code-hl-function-color: hsl(35, 99%, 36%);
+    --md-code-hl-class-color: hsl(198, 99%, 37%);
+    --md-code-hl-attr-color: hsl(5, 74%, 59%);
+    --md-code-hl-comment-color: hsl(230, 4%, 64%);
+}
+
+.md-nav__item--section > .md-nav__link[for] {
+    color: var(--md-code-hl-keyword-color);
+}
+
+@media screen and (min-width: 76.25em) {
+    .md-nav__item--section {
+        margin: 2em 0;
+    }
+}
+
+.md-typeset h1, h2, h3, h4, h5, h6 {
+    color: var(--md-code-hl-keyword-color);
+}
+
+.md-grid {
+    max-width: 70rem;
+}
+
+.md-typeset ol li,
+.md-typeset ul li {
+    margin-bottom: .1em;
+    text-align: justify;
+}
+
+.md-typeset ul ul {
+    list-style-type: circle;
+}
+
+article p {
+    text-align: justify;
+}
+
+.highlight .fm {
+    color: var(--md-code-hl-function-color);
+}
+
+.highlight .nx {
+    color: var(--md-code-hl-class-color);
+}
+
+.highlight .nd {
+    color: var(--md-code-hl-attr-color);
+}

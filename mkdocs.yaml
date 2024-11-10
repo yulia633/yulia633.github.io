@@ -1,0 +1,23 @@
+site_name: Документация сервиса сотрудников
+
+repo_url: 'https://github.com/yulia633/yulia633.github.io'
+
+theme:
+  name: material
+  language: ru
+  palette:
+    primary: white
+
+nav:
+  - index.md
+  - main.md
+  - Документация API:
+    - employee/get-person.md
+    - employee/create-person.md
+    - employee/delete-person.md
+  - Сущности:
+      - entity/entity-main.md
+      - entity/entity-person.md
+      - entity/entity-position.md
+      - entity/entity-role.md
+      - entity/entity-role-type.md
